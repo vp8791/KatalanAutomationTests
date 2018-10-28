@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Issuing membership and Discount Suite" time="14" tests="4" failures="0" errors="0">
+   <testsuite name="Issuing membership and Discount Suite" tests="4" failures="0" errors="0" time="14" timestamp="2018-10-27 15:23:57" hostname="Vanitha - DESKTOP-SLU6JHH" id="Test Suites/Decision Tables/Issuing membership and Discount/Issuing membership and Discount Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="D:\\Softwares\\KatalanStudioProjects\\UdemyProject\\Reports\\Decision Tables\\Issuing membership and Discount\\Issuing membership and Discount Suite\\20181027_152351"/>
+         <property name="logFiles" value="D:\\Softwares\\KatalanStudioProjects\\UdemyProject\\Reports\\Decision Tables\\Issuing membership and Discount\\Issuing membership and Discount Suite\\20181027_152351\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Vanitha - DESKTOP-SLU6JHH"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.8.3.2"/>
+         <property name="browser" value="Chrome 70.0.3538.77"/>
+         <property name="hostAddress" value="192.168.56.100"/>
+         <property name="sessionId" value="32fd008e796da3d6790a37f2c88b3284"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Isqtb/Decision tables/Issuing membership and Discount/Rules/Issue MemberShip- Rule 1" classname="Test Cases/Isqtb/Decision tables/Issuing membership and Discount/Rules/Issue MemberShip- Rule 1" status="PASSED">
+         <system-out><![CDATA[2018-10-27 15:23:57 - [TEST_CASE][PASSED] - Test Cases/Isqtb/Decision tables/Issuing membership and Discount/Rules/Issue MemberShip- Rule 1: Test Cases/Isqtb/Decision tables/Issuing membership and Discount/Rules/Issue MemberShip- Rule 1
+
+2018-10-27 15:23:57 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-10-27 15:24:00 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-10-27 15:24:00 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://192.168.56.102:8080/spring-mvc-forms' successfully
+
+2018-10-27 15:24:00 - [MESSAGE][PASSED] - Navigate to 'http://192.168.56.102:8080/spring-mvc-forms' successfully
+
+2018-10-27 15:24:00 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule1/Page_Home page/a_Decision Tree on AgeResidenc' is clicked on
+
+2018-10-27 15:24:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule1/Page_Home page/a_Decision Tree on AgeResidenc' is clicked on
+
+2018-10-27 15:24:00 - [TEST_STEP][PASSED] - setText: Text 'Rule1' is set on object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule1/Page_Black Box Enter Residency Deta/input_Name_name'
+
+2018-10-27 15:24:00 - [MESSAGE][PASSED] - Text 'Rule1' is set on object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule1/Page_Black Box Enter Residency Deta/input_Name_name'
+
+2018-10-27 15:24:00 - [TEST_STEP][PASSED] - setText: Text '75' is set on object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule1/Page_Black Box Enter Residency Deta/input_Age_age'
+
+2018-10-27 15:24:01 - [MESSAGE][PASSED] - Text '75' is set on object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule1/Page_Black Box Enter Residency Deta/input_Age_age'
+
+2018-10-27 15:24:01 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule1/Page_Black Box Enter Residency Deta/input' is clicked on
+
+2018-10-27 15:24:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule1/Page_Black Box Enter Residency Deta/input' is clicked on
+
+2018-10-27 15:24:01 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule1/Page_Black Box Output/td_Issue MemberShip' is present
+
+2018-10-27 15:24:01 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-10-27 15:24:01 - [MESSAGE][PASSED] - Object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule1/Page_Black Box Output/td_Issue MemberShip' is present
+
+2018-10-27 15:24:01 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule1/Page_Black Box Output/td_Offer 10 Discount' is present
+
+2018-10-27 15:24:01 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-10-27 15:24:01 - [MESSAGE][PASSED] - Object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule1/Page_Black Box Output/td_Offer 10 Discount' is present
+
+2018-10-27 15:24:01 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule1/Page_Black Box Output/td_false' are matched.
+
+2018-10-27 15:24:01 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule1/Page_Black Box Output/td_false' are matched.
+
+2018-10-27 15:24:01 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule1/Page_Black Box Output/td_false_1' are matched.
+
+2018-10-27 15:24:01 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule1/Page_Black Box Output/td_false_1' are matched.
+
+2018-10-27 15:24:01 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-10-27 15:24:01 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Isqtb/Decision tables/Issuing membership and Discount/Rules/Issue MemberShip- Rule 2" classname="Test Cases/Isqtb/Decision tables/Issuing membership and Discount/Rules/Issue MemberShip- Rule 2" status="PASSED">
+         <system-out><![CDATA[2018-10-27 15:24:01 - [TEST_CASE][PASSED] - Test Cases/Isqtb/Decision tables/Issuing membership and Discount/Rules/Issue MemberShip- Rule 2: Test Cases/Isqtb/Decision tables/Issuing membership and Discount/Rules/Issue MemberShip- Rule 2
+
+2018-10-27 15:24:02 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-10-27 15:24:03 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-10-27 15:24:03 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://192.168.56.102:8080/spring-mvc-forms' successfully
+
+2018-10-27 15:24:04 - [MESSAGE][PASSED] - Navigate to 'http://192.168.56.102:8080/spring-mvc-forms' successfully
+
+2018-10-27 15:24:04 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule2/Page_Home page/a_Decision Tree on AgeResidenc' is clicked on
+
+2018-10-27 15:24:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule2/Page_Home page/a_Decision Tree on AgeResidenc' is clicked on
+
+2018-10-27 15:24:04 - [TEST_STEP][PASSED] - setText: Text 'Rule2' is set on object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule2/Page_Black Box Enter Residency Deta/input_Name_name'
+
+2018-10-27 15:24:04 - [MESSAGE][PASSED] - Text 'Rule2' is set on object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule2/Page_Black Box Enter Residency Deta/input_Name_name'
+
+2018-10-27 15:24:04 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule2/Page_Black Box Enter Residency Deta/input_Indian Resident_indianRe' is clicked on
+
+2018-10-27 15:24:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule2/Page_Black Box Enter Residency Deta/input_Indian Resident_indianRe' is clicked on
+
+2018-10-27 15:24:04 - [TEST_STEP][PASSED] - setText: Text '70' is set on object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule2/Page_Black Box Enter Residency Deta/input_Age_age'
+
+2018-10-27 15:24:04 - [MESSAGE][PASSED] - Text '70' is set on object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule2/Page_Black Box Enter Residency Deta/input_Age_age'
+
+2018-10-27 15:24:04 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule2/Page_Black Box Enter Residency Deta/input' is clicked on
+
+2018-10-27 15:24:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule2/Page_Black Box Enter Residency Deta/input' is clicked on
+
+2018-10-27 15:24:04 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule2/Page_Black Box Output/td_Issue MemberShip' is clicked on
+
+2018-10-27 15:24:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule2/Page_Black Box Output/td_Issue MemberShip' is clicked on
+
+2018-10-27 15:24:04 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule2/Page_Black Box Output/td_Offer 10 Discount' is clicked on
+
+2018-10-27 15:24:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule2/Page_Black Box Output/td_Offer 10 Discount' is clicked on
+
+2018-10-27 15:24:04 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule2/Page_Black Box Output/td_false' is clicked on
+
+2018-10-27 15:24:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule2/Page_Black Box Output/td_false' is clicked on
+
+2018-10-27 15:24:04 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule2/Page_Black Box Output/td_false_1' is clicked on
+
+2018-10-27 15:24:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule2/Page_Black Box Output/td_false_1' is clicked on
+
+2018-10-27 15:24:04 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule2/Page_Black Box Output/td_Issue MemberShip' is present
+
+2018-10-27 15:24:04 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-10-27 15:24:04 - [MESSAGE][PASSED] - Object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule2/Page_Black Box Output/td_Issue MemberShip' is present
+
+2018-10-27 15:24:04 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule2/Page_Black Box Output/td_Offer 10 Discount' is present
+
+2018-10-27 15:24:04 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-10-27 15:24:04 - [MESSAGE][PASSED] - Object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule2/Page_Black Box Output/td_Offer 10 Discount' is present
+
+2018-10-27 15:24:04 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule2/Page_Black Box Output/td_false' are matched.
+
+2018-10-27 15:24:04 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule2/Page_Black Box Output/td_false' are matched.
+
+2018-10-27 15:24:04 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule2/Page_Black Box Output/td_false_1' are matched.
+
+2018-10-27 15:24:04 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule2/Page_Black Box Output/td_false_1' are matched.
+
+2018-10-27 15:24:04 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-10-27 15:24:05 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Isqtb/Decision tables/Issuing membership and Discount/Rules/Issue MemberShip- Rule 3" classname="Test Cases/Isqtb/Decision tables/Issuing membership and Discount/Rules/Issue MemberShip- Rule 3" status="PASSED">
+         <system-out><![CDATA[2018-10-27 15:24:05 - [TEST_CASE][PASSED] - Test Cases/Isqtb/Decision tables/Issuing membership and Discount/Rules/Issue MemberShip- Rule 3: Test Cases/Isqtb/Decision tables/Issuing membership and Discount/Rules/Issue MemberShip- Rule 3
+
+2018-10-27 15:24:05 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-10-27 15:24:07 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-10-27 15:24:07 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://192.168.56.102:8080/spring-mvc-forms' successfully
+
+2018-10-27 15:24:07 - [MESSAGE][PASSED] - Navigate to 'http://192.168.56.102:8080/spring-mvc-forms' successfully
+
+2018-10-27 15:24:07 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule3/Page_Home page/a_Decision Tree on AgeResidenc' is clicked on
+
+2018-10-27 15:24:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule3/Page_Home page/a_Decision Tree on AgeResidenc' is clicked on
+
+2018-10-27 15:24:07 - [TEST_STEP][PASSED] - setText: Text 'Rule3' is set on object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule3/Page_Black Box Enter Residency Deta/input_Name_name'
+
+2018-10-27 15:24:07 - [MESSAGE][PASSED] - Text 'Rule3' is set on object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule3/Page_Black Box Enter Residency Deta/input_Name_name'
+
+2018-10-27 15:24:07 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule3/Page_Black Box Enter Residency Deta/input_Indian Resident_indianRe' is clicked on
+
+2018-10-27 15:24:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule3/Page_Black Box Enter Residency Deta/input_Indian Resident_indianRe' is clicked on
+
+2018-10-27 15:24:07 - [TEST_STEP][PASSED] - setText: Text '45' is set on object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule3/Page_Black Box Enter Residency Deta/input_Age_age'
+
+2018-10-27 15:24:07 - [MESSAGE][PASSED] - Text '45' is set on object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule3/Page_Black Box Enter Residency Deta/input_Age_age'
+
+2018-10-27 15:24:07 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule3/Page_Black Box Enter Residency Deta/input' is clicked on
+
+2018-10-27 15:24:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule3/Page_Black Box Enter Residency Deta/input' is clicked on
+
+2018-10-27 15:24:07 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule3/Page_Black Box Output/td_Issue MemberShip' is clicked on
+
+2018-10-27 15:24:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule3/Page_Black Box Output/td_Issue MemberShip' is clicked on
+
+2018-10-27 15:24:07 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule3/Page_Black Box Output/td_true' is clicked on
+
+2018-10-27 15:24:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule3/Page_Black Box Output/td_true' is clicked on
+
+2018-10-27 15:24:07 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule3/Page_Black Box Output/td_true_1' is clicked on
+
+2018-10-27 15:24:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule3/Page_Black Box Output/td_true_1' is clicked on
+
+2018-10-27 15:24:08 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule3/Page_Black Box Output/td_Offer 10 Discount' is clicked on
+
+2018-10-27 15:24:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule3/Page_Black Box Output/td_Offer 10 Discount' is clicked on
+
+2018-10-27 15:24:08 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule3/Page_Black Box Output/td_Issue MemberShip' is present
+
+2018-10-27 15:24:08 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-10-27 15:24:08 - [MESSAGE][PASSED] - Object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule3/Page_Black Box Output/td_Issue MemberShip' is present
+
+2018-10-27 15:24:08 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule3/Page_Black Box Output/td_Offer 10 Discount' is present
+
+2018-10-27 15:24:08 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-10-27 15:24:08 - [MESSAGE][PASSED] - Object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule3/Page_Black Box Output/td_Offer 10 Discount' is present
+
+2018-10-27 15:24:08 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule3/Page_Black Box Output/td_true' are matched.
+
+2018-10-27 15:24:08 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule3/Page_Black Box Output/td_true' are matched.
+
+2018-10-27 15:24:08 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule3/Page_Black Box Output/td_true_1' are matched.
+
+2018-10-27 15:24:08 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule3/Page_Black Box Output/td_true_1' are matched.
+
+2018-10-27 15:24:08 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-10-27 15:24:08 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Isqtb/Decision tables/Issuing membership and Discount/Rules/Issue MemberShip- Rule 4" classname="Test Cases/Isqtb/Decision tables/Issuing membership and Discount/Rules/Issue MemberShip- Rule 4" status="PASSED">
+         <system-out><![CDATA[2018-10-27 15:24:08 - [TEST_CASE][PASSED] - Test Cases/Isqtb/Decision tables/Issuing membership and Discount/Rules/Issue MemberShip- Rule 4: Test Cases/Isqtb/Decision tables/Issuing membership and Discount/Rules/Issue MemberShip- Rule 4
+
+2018-10-27 15:24:08 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-10-27 15:24:10 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-10-27 15:24:10 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://192.168.56.102:8080/spring-mvc-forms' successfully
+
+2018-10-27 15:24:10 - [MESSAGE][PASSED] - Navigate to 'http://192.168.56.102:8080/spring-mvc-forms' successfully
+
+2018-10-27 15:24:10 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule4/Page_Home page/a_Decision Tree on AgeResidenc' is clicked on
+
+2018-10-27 15:24:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule4/Page_Home page/a_Decision Tree on AgeResidenc' is clicked on
+
+2018-10-27 15:24:11 - [TEST_STEP][PASSED] - setText: Text 'Alpha' is set on object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule4/Page_Black Box Enter Residency Deta/input_Name_name'
+
+2018-10-27 15:24:11 - [MESSAGE][PASSED] - Text 'Alpha' is set on object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule4/Page_Black Box Enter Residency Deta/input_Name_name'
+
+2018-10-27 15:24:11 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule4/Page_Black Box Enter Residency Deta/input_Indian Resident_indianRe' is clicked on
+
+2018-10-27 15:24:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule4/Page_Black Box Enter Residency Deta/input_Indian Resident_indianRe' is clicked on
+
+2018-10-27 15:24:11 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule4/Page_Black Box Enter Residency Deta/input_Marital Status_married' is clicked on
+
+2018-10-27 15:24:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule4/Page_Black Box Enter Residency Deta/input_Marital Status_married' is clicked on
+
+2018-10-27 15:24:11 - [TEST_STEP][PASSED] - setText: Text '45' is set on object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule4/Page_Black Box Enter Residency Deta/input_Age_age'
+
+2018-10-27 15:24:11 - [MESSAGE][PASSED] - Text '45' is set on object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule4/Page_Black Box Enter Residency Deta/input_Age_age'
+
+2018-10-27 15:24:11 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule4/Page_Black Box Enter Residency Deta/input' is clicked on
+
+2018-10-27 15:24:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule4/Page_Black Box Enter Residency Deta/input' is clicked on
+
+2018-10-27 15:24:11 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule4/Page_Black Box Output/td_Issue MemberShip' is clicked on
+
+2018-10-27 15:24:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule4/Page_Black Box Output/td_Issue MemberShip' is clicked on
+
+2018-10-27 15:24:11 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule4/Page_Black Box Output/td_Offer 10 Discount' is clicked on
+
+2018-10-27 15:24:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule4/Page_Black Box Output/td_Offer 10 Discount' is clicked on
+
+2018-10-27 15:24:11 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule4/Page_Black Box Output/td_true' is clicked on
+
+2018-10-27 15:24:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule4/Page_Black Box Output/td_true' is clicked on
+
+2018-10-27 15:24:11 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule4/Page_Black Box Output/td_false' is clicked on
+
+2018-10-27 15:24:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule4/Page_Black Box Output/td_false' is clicked on
+
+2018-10-27 15:24:11 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule4/Page_Black Box Output/td_Issue MemberShip' is present
+
+2018-10-27 15:24:11 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-10-27 15:24:11 - [MESSAGE][PASSED] - Object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule4/Page_Black Box Output/td_Issue MemberShip' is present
+
+2018-10-27 15:24:11 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule4/Page_Black Box Output/td_Offer 10 Discount' is present
+
+2018-10-27 15:24:11 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2018-10-27 15:24:11 - [MESSAGE][PASSED] - Object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule4/Page_Black Box Output/td_Offer 10 Discount' is present
+
+2018-10-27 15:24:11 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule4/Page_Black Box Output/td_false' are matched.
+
+2018-10-27 15:24:11 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule4/Page_Black Box Output/td_false' are matched.
+
+2018-10-27 15:24:11 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule4/Page_Black Box Output/td_true' are matched.
+
+2018-10-27 15:24:11 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Decision Tables/Issueing membership and Discount/Rules/Rule4/Page_Black Box Output/td_true' are matched.
+
+2018-10-27 15:24:11 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-10-27 15:24:12 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-10-27 15:23:57 - [TEST_SUITE][PASSED] - Issuing membership and Discount Suite: Test Cases/Isqtb/Decision tables/Issuing membership and Discount/Rules/Issue MemberShip- Rule 4]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

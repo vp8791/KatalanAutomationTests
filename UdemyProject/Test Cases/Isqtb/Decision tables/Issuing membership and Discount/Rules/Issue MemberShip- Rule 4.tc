@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>http://192.168.56.102:8080/spring-mvc-forms</description>
+   <name>Issue MemberShip- Rule 4</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2f43bd08-6b4d-4019-b32d-1440fdbb8cef</testCaseGuid>
+</TestCaseEntity>
