@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Car Insurance Test Suits" time="15" tests="4" failures="0" errors="0">
+   <testsuite name="Car Insurance Test Suits" tests="4" failures="0" errors="0" time="15" timestamp="2018-10-29 13:04:54" hostname="Vanitha - DESKTOP-SLU6JHH" id="Test Suites/Decision Tables/Car Insurance/Car Insurance Test Suits">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="D:\\Softwares\\KatalanStudioProjects\\UdemyProject\\Reports\\Decision Tables\\Car Insurance\\Car Insurance Test Suits\\20181029_130448"/>
+         <property name="logFiles" value="D:\\Softwares\\KatalanStudioProjects\\UdemyProject\\Reports\\Decision Tables\\Car Insurance\\Car Insurance Test Suits\\20181029_130448\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Vanitha - DESKTOP-SLU6JHH"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.8.3.2"/>
+         <property name="browser" value="Chrome 70.0.3538.77"/>
+         <property name="hostAddress" value="192.168.56.100"/>
+         <property name="sessionId" value="c70aea1b2edad672d6f85b07b0c30451"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Isqtb/Decision tables/Car Insurance/Rules/Car insurance Rule 1" classname="Test Cases/Isqtb/Decision tables/Car Insurance/Rules/Car insurance Rule 1" status="PASSED">
+         <system-out><![CDATA[2018-10-29 13:04:54 - [TEST_CASE][PASSED] - Test Cases/Isqtb/Decision tables/Car Insurance/Rules/Car insurance Rule 1: Test Cases/Isqtb/Decision tables/Car Insurance/Rules/Car insurance Rule 1
+
+2018-10-29 13:04:54 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-10-29 13:04:57 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-10-29 13:04:57 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://192.168.56.102:8080/spring-mvc-forms' successfully
+
+2018-10-29 13:04:57 - [MESSAGE][PASSED] - Navigate to 'http://192.168.56.102:8080/spring-mvc-forms' successfully
+
+2018-10-29 13:04:57 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 1/Page_Home page/a_Decision Tree on Insurances' is clicked on
+
+2018-10-29 13:04:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 1/Page_Home page/a_Decision Tree on Insurances' is clicked on
+
+2018-10-29 13:04:57 - [TEST_STEP][PASSED] - setText: Text 'hhh' is set on object 'Object Repository/Decision Tables/Car Insurance Repository/Rule 1/Page_Car Rentals/input_Name_name'
+
+2018-10-29 13:04:57 - [MESSAGE][PASSED] - Text 'hhh' is set on object 'Object Repository/Decision Tables/Car Insurance Repository/Rule 1/Page_Car Rentals/input_Name_name'
+
+2018-10-29 13:04:57 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 1/Page_Car Rentals/input_Existing Medical Conditi' is clicked on
+
+2018-10-29 13:04:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 1/Page_Car Rentals/input_Existing Medical Conditi' is clicked on
+
+2018-10-29 13:04:57 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 1/Page_Car Rentals/input_Smoker_smoker' is clicked on
+
+2018-10-29 13:04:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 1/Page_Car Rentals/input_Smoker_smoker' is clicked on
+
+2018-10-29 13:04:57 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 1/Page_Car Rentals/input_Skieng_skiing' is clicked on
+
+2018-10-29 13:04:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 1/Page_Car Rentals/input_Skieng_skiing' is clicked on
+
+2018-10-29 13:04:57 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 1/Page_Car Rentals/input' is clicked on
+
+2018-10-29 13:04:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 1/Page_Car Rentals/input' is clicked on
+
+2018-10-29 13:04:57 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 1/Page_Black Box Output/td_Insure Person' is clicked on
+
+2018-10-29 13:04:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 1/Page_Black Box Output/td_Insure Person' is clicked on
+
+2018-10-29 13:04:58 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 1/Page_Black Box Output/td_false' is clicked on
+
+2018-10-29 13:04:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 1/Page_Black Box Output/td_false' is clicked on
+
+2018-10-29 13:04:58 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 1/Page_Black Box Output/td_Offer Discount' is clicked on
+
+2018-10-29 13:04:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 1/Page_Black Box Output/td_Offer Discount' is clicked on
+
+2018-10-29 13:04:58 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 1/Page_Black Box Output/td_Not Applicable' is clicked on
+
+2018-10-29 13:04:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 1/Page_Black Box Output/td_Not Applicable' is clicked on
+
+2018-10-29 13:04:58 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/Decision Tables/Car Insurance Repository/Rule 1/Page_Black Box Output/td_Not Applicable' are matched.
+
+2018-10-29 13:04:58 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Decision Tables/Car Insurance Repository/Rule 1/Page_Black Box Output/td_Not Applicable' are matched.
+
+2018-10-29 13:04:58 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/Decision Tables/Car Insurance Repository/Rule 1/Page_Black Box Output/td_false' are matched.
+
+2018-10-29 13:04:58 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Decision Tables/Car Insurance Repository/Rule 1/Page_Black Box Output/td_false' are matched.
+
+2018-10-29 13:04:58 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-10-29 13:04:58 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Isqtb/Decision tables/Car Insurance/Rules/Car Insurance Rule 2" classname="Test Cases/Isqtb/Decision tables/Car Insurance/Rules/Car Insurance Rule 2" status="PASSED">
+         <system-out><![CDATA[2018-10-29 13:04:58 - [TEST_CASE][PASSED] - Test Cases/Isqtb/Decision tables/Car Insurance/Rules/Car Insurance Rule 2: Test Cases/Isqtb/Decision tables/Car Insurance/Rules/Car Insurance Rule 2
+
+2018-10-29 13:04:59 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-10-29 13:05:00 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-10-29 13:05:00 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://192.168.56.102:8080/spring-mvc-forms' successfully
+
+2018-10-29 13:05:00 - [MESSAGE][PASSED] - Navigate to 'http://192.168.56.102:8080/spring-mvc-forms' successfully
+
+2018-10-29 13:05:01 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 2/Page_Home page/a_Decision Tree on Insurances' is clicked on
+
+2018-10-29 13:05:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 2/Page_Home page/a_Decision Tree on Insurances' is clicked on
+
+2018-10-29 13:05:01 - [TEST_STEP][PASSED] - setText: Text 'hhh' is set on object 'Object Repository/Decision Tables/Car Insurance Repository/Rule 2/Page_Car Rentals/input_Name_name'
+
+2018-10-29 13:05:01 - [MESSAGE][PASSED] - Text 'hhh' is set on object 'Object Repository/Decision Tables/Car Insurance Repository/Rule 2/Page_Car Rentals/input_Name_name'
+
+2018-10-29 13:05:01 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 2/Page_Car Rentals/input_Smoker_smoker' is clicked on
+
+2018-10-29 13:05:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 2/Page_Car Rentals/input_Smoker_smoker' is clicked on
+
+2018-10-29 13:05:01 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 2/Page_Car Rentals/input_Skieng_skiing' is clicked on
+
+2018-10-29 13:05:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 2/Page_Car Rentals/input_Skieng_skiing' is clicked on
+
+2018-10-29 13:05:01 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 2/Page_Car Rentals/input' is clicked on
+
+2018-10-29 13:05:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 2/Page_Car Rentals/input' is clicked on
+
+2018-10-29 13:05:01 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 2/Page_Black Box Output/td_Insure Person' is clicked on
+
+2018-10-29 13:05:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 2/Page_Black Box Output/td_Insure Person' is clicked on
+
+2018-10-29 13:05:01 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 2/Page_Black Box Output/td_true' is clicked on
+
+2018-10-29 13:05:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 2/Page_Black Box Output/td_true' is clicked on
+
+2018-10-29 13:05:01 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 2/Page_Black Box Output/td_Offer Discount' is clicked on
+
+2018-10-29 13:05:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 2/Page_Black Box Output/td_Offer Discount' is clicked on
+
+2018-10-29 13:05:01 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 2/Page_Black Box Output/td_No' is clicked on
+
+2018-10-29 13:05:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 2/Page_Black Box Output/td_No' is clicked on
+
+2018-10-29 13:05:01 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/Decision Tables/Car Insurance Repository/Rule 2/Page_Black Box Output/td_true' are matched.
+
+2018-10-29 13:05:01 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Decision Tables/Car Insurance Repository/Rule 2/Page_Black Box Output/td_true' are matched.
+
+2018-10-29 13:05:01 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/Decision Tables/Car Insurance Repository/Rule 2/Page_Black Box Output/td_No' are matched.
+
+2018-10-29 13:05:01 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Decision Tables/Car Insurance Repository/Rule 2/Page_Black Box Output/td_No' are matched.
+
+2018-10-29 13:05:01 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-10-29 13:05:02 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Isqtb/Decision tables/Car Insurance/Rules/Car Insurance Rule 3" classname="Test Cases/Isqtb/Decision tables/Car Insurance/Rules/Car Insurance Rule 3" status="PASSED">
+         <system-out><![CDATA[2018-10-29 13:05:02 - [TEST_CASE][PASSED] - Test Cases/Isqtb/Decision tables/Car Insurance/Rules/Car Insurance Rule 3: Test Cases/Isqtb/Decision tables/Car Insurance/Rules/Car Insurance Rule 3
+
+2018-10-29 13:05:02 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-10-29 13:05:04 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-10-29 13:05:04 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://192.168.56.102:8080/spring-mvc-forms' successfully
+
+2018-10-29 13:05:04 - [MESSAGE][PASSED] - Navigate to 'http://192.168.56.102:8080/spring-mvc-forms' successfully
+
+2018-10-29 13:05:04 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 3/Page_Home page/a_Decision Tree on Insurances' is clicked on
+
+2018-10-29 13:05:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 3/Page_Home page/a_Decision Tree on Insurances' is clicked on
+
+2018-10-29 13:05:04 - [TEST_STEP][PASSED] - setText: Text 'klm' is set on object 'Object Repository/Decision Tables/Car Insurance Repository/Rule 3/Page_Car Rentals/input_Name_name'
+
+2018-10-29 13:05:04 - [MESSAGE][PASSED] - Text 'klm' is set on object 'Object Repository/Decision Tables/Car Insurance Repository/Rule 3/Page_Car Rentals/input_Name_name'
+
+2018-10-29 13:05:04 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 3/Page_Car Rentals/input' is clicked on
+
+2018-10-29 13:05:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 3/Page_Car Rentals/input' is clicked on
+
+2018-10-29 13:05:04 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 3/Page_Black Box Output/td_Insure Person' is clicked on
+
+2018-10-29 13:05:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 3/Page_Black Box Output/td_Insure Person' is clicked on
+
+2018-10-29 13:05:04 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 3/Page_Black Box Output/td_true' is clicked on
+
+2018-10-29 13:05:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 3/Page_Black Box Output/td_true' is clicked on
+
+2018-10-29 13:05:04 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 3/Page_Black Box Output/td_Offer Discount' is clicked on
+
+2018-10-29 13:05:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 3/Page_Black Box Output/td_Offer Discount' is clicked on
+
+2018-10-29 13:05:05 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 3/Page_Black Box Output/td_15' is clicked on
+
+2018-10-29 13:05:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 3/Page_Black Box Output/td_15' is clicked on
+
+2018-10-29 13:05:05 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/Decision Tables/Car Insurance Repository/Rule 3/Page_Black Box Output/td_15' are matched.
+
+2018-10-29 13:05:05 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Decision Tables/Car Insurance Repository/Rule 3/Page_Black Box Output/td_15' are matched.
+
+2018-10-29 13:05:05 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/Decision Tables/Car Insurance Repository/Rule 3/Page_Black Box Output/td_true' are matched.
+
+2018-10-29 13:05:05 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Decision Tables/Car Insurance Repository/Rule 3/Page_Black Box Output/td_true' are matched.
+
+2018-10-29 13:05:05 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-10-29 13:05:05 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Isqtb/Decision tables/Car Insurance/Rules/Car Insurance Rule 4" classname="Test Cases/Isqtb/Decision tables/Car Insurance/Rules/Car Insurance Rule 4" status="PASSED">
+         <system-out><![CDATA[2018-10-29 13:05:05 - [TEST_CASE][PASSED] - Test Cases/Isqtb/Decision tables/Car Insurance/Rules/Car Insurance Rule 4: Test Cases/Isqtb/Decision tables/Car Insurance/Rules/Car Insurance Rule 4
+
+2018-10-29 13:05:05 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-10-29 13:05:07 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-10-29 13:05:07 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://192.168.56.102:8080/spring-mvc-forms' successfully
+
+2018-10-29 13:05:07 - [MESSAGE][PASSED] - Navigate to 'http://192.168.56.102:8080/spring-mvc-forms' successfully
+
+2018-10-29 13:05:07 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 4/Page_Home page/a_Decision Tree on Insurances' is clicked on
+
+2018-10-29 13:05:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 4/Page_Home page/a_Decision Tree on Insurances' is clicked on
+
+2018-10-29 13:05:08 - [TEST_STEP][PASSED] - setText: Text 'hgf' is set on object 'Object Repository/Decision Tables/Car Insurance Repository/Rule 4/Page_Car Rentals/input_Name_name'
+
+2018-10-29 13:05:08 - [MESSAGE][PASSED] - Text 'hgf' is set on object 'Object Repository/Decision Tables/Car Insurance Repository/Rule 4/Page_Car Rentals/input_Name_name'
+
+2018-10-29 13:05:08 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 4/Page_Car Rentals/input_Skieng_skiing' is clicked on
+
+2018-10-29 13:05:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 4/Page_Car Rentals/input_Skieng_skiing' is clicked on
+
+2018-10-29 13:05:08 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 4/Page_Car Rentals/input' is clicked on
+
+2018-10-29 13:05:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 4/Page_Car Rentals/input' is clicked on
+
+2018-10-29 13:05:08 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 4/Page_Black Box Output/td_Insure Person' is clicked on
+
+2018-10-29 13:05:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 4/Page_Black Box Output/td_Insure Person' is clicked on
+
+2018-10-29 13:05:08 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 4/Page_Black Box Output/td_true' is clicked on
+
+2018-10-29 13:05:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 4/Page_Black Box Output/td_true' is clicked on
+
+2018-10-29 13:05:08 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 4/Page_Black Box Output/td_Offer Discount' is clicked on
+
+2018-10-29 13:05:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 4/Page_Black Box Output/td_Offer Discount' is clicked on
+
+2018-10-29 13:05:08 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 4/Page_Black Box Output/td_10' is clicked on
+
+2018-10-29 13:05:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Decision Tables/Car Insurance Repository/Rule 4/Page_Black Box Output/td_10' is clicked on
+
+2018-10-29 13:05:08 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/Decision Tables/Car Insurance Repository/Rule 4/Page_Black Box Output/td_10' are matched.
+
+2018-10-29 13:05:08 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Decision Tables/Car Insurance Repository/Rule 4/Page_Black Box Output/td_10' are matched.
+
+2018-10-29 13:05:08 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/Decision Tables/Car Insurance Repository/Rule 4/Page_Black Box Output/td_true' are matched.
+
+2018-10-29 13:05:08 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Decision Tables/Car Insurance Repository/Rule 4/Page_Black Box Output/td_true' are matched.
+
+2018-10-29 13:05:08 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-10-29 13:05:09 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-10-29 13:04:54 - [TEST_SUITE][PASSED] - Car Insurance Test Suits: Test Cases/Isqtb/Decision tables/Car Insurance/Rules/Car Insurance Rule 4]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

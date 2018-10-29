@@ -4,7 +4,7 @@
    <name>Issuing membership and Discount Suite</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2018-10-29T09:54:46</lastRun>
+   <lastRun>2018-10-29T13:15:58</lastRun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
