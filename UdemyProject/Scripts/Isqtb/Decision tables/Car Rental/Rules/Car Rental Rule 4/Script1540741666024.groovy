@@ -17,35 +17,35 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://192.168.56.102:8080/spring-mvc-forms')
 
-WebUI.click(findTestObject('Object Repository/Decision Tables/Car Rental Repository/Rule 4/Page_Home page/a_Decision Tree on Car Rentals'))
+WebUI.click(findTestObject('null'))
 
-WebUI.setText(findTestObject('Object Repository/Decision Tables/Car Rental Repository/Rule 4/Page_Car Rentals/input_Name_name'), 
+WebUI.setText(findTestObject('null'), 
     'kkk')
 
-WebUI.setText(findTestObject('Object Repository/Decision Tables/Car Rental Repository/Rule 4/Page_Car Rentals/input_Age_age'), 
+WebUI.setText(findTestObject('null'), 
     '45')
 
-WebUI.click(findTestObject('Object Repository/Decision Tables/Car Rental Repository/Rule 4/Page_Car Rentals/input_Clean Driving Record_cle'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Decision Tables/Car Rental Repository/Rule 4/Page_Car Rentals/input_On Businesss_onbusiness'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Decision Tables/Car Rental Repository/Rule 4/Page_Car Rentals/input'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Decision Tables/Car Rental Repository/Rule 4/Page_Black Box Output/td_Supply Rental Car'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Decision Tables/Car Rental Repository/Rule 4/Page_Black Box Output/td_true'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Decision Tables/Car Rental Repository/Rule 4/Page_Black Box Output/td_Premium Charge'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Decision Tables/Car Rental Repository/Rule 4/Page_Black Box Output/td_true_1'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Decision Tables/Car Rental Repository/Rule 4/Page_Black Box Output/td_Supply Rental Car'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Decision Tables/Car Rental Repository/Rule 4/Page_Black Box Output/td_true'))
+WebUI.click(findTestObject('null'))
 
-WebUI.verifyElementText(findTestObject('Decision Tables/Car Rental Repository/Rule 4/Page_Black Box Output/td_true'), 'true')
+WebUI.verifyElementText(findTestObject('null'), 'true')
 
-WebUI.verifyElementText(findTestObject('Decision Tables/Car Rental Repository/Rule 4/Page_Black Box Output/td_true_1'), 
+WebUI.verifyElementText(findTestObject('null'), 
     'true')
 
 WebUI.closeBrowser()
